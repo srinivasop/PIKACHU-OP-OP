@@ -1,6 +1,6 @@
 from sys import argv, exit
-from julia import tbot
-from julia import TOKEN
+from PIKACHU import tbot
+from PIKACHU import TOKEN
 
 # IDK WHY IT'S SO IMPORTANT, JUST DON'T REMOVE THIS
 import julia.events
